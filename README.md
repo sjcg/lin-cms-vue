@@ -9,7 +9,7 @@
   <a href="#简介">简介</a>&nbsp;|&nbsp;<a href="#快速上手">快速上手</a>&nbsp;|&nbsp;<a href="#版本日志">版本日志</a>
 </p>
 
-![](https://img.shields.io/badge/版本-0.3.5-3963bc.svg)
+![](https://img.shields.io/badge/版本-0.3.7-3963bc.svg)
 ![](https://img.shields.io/badge/node-8.11.0+-3963bc.svg)
 ![](https://img.shields.io/badge/脚手架-vuecli3-3963bc.svg)
 ![](https://img.shields.io/badge/license-MIT-3963bc.svg)
@@ -34,6 +34,10 @@ Lin-CMS 是一套前后端完整的解决方案，后端部署请移步：
 ### 注意
 
 **Lin-CMS 是工程类开源项目，不能保证无缝升级**
+
+### 林间有风团队官方网站
+
+[https://talelin.com/](https://talelin.com/)
 
 ### 文档地址
 
@@ -99,7 +103,13 @@ QQ群搜索：Lin CMS 官方交流群 或 814597236
 
 ## 版本日志
 
-最新版本 `0.3.6`
+最新版本 `0.3.7`
+
+### 0.3.7
+
+1. `A` 新增导出 Excel 示例
+2. `U` 使用淘宝源来安装 node-sass
+3. `U` 优化依赖包版本
 
 ### 0.3.6
 
